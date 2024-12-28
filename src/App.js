@@ -12,7 +12,7 @@ function App() {
   const [colaboradores, actualizarColaboradores] = useState([{
     id: uuid(),
     equipo: "Front End",
-    foto: "https://github.com/harlandlohora.png",
+    foto: "https://github.com/camilocuspian.png",
     nombre: "Harland Lohora",
     puesto: "Instructor",
     fav: true
